@@ -18,6 +18,7 @@ class Car1 {
     def main(args: Array[String])
     {
       // Class object
+      var i=10;
       var obj = new Car1()
       obj.Display()
     }

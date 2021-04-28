@@ -3,7 +3,7 @@ object feature_branch1_code {
     print("this is feature branch 2")
     println("commit and rebuse to integtion branch")
     print("hello rabase")
-    print("hiiii")
+    print("hi all")
 
   }
 
